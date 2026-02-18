@@ -1,4 +1,4 @@
-# Pandas_Practice
+# PythonPractice
 
 To run this project.Create a virtual environment and install the requirements.txt file using pip.
 
