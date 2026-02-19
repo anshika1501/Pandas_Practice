@@ -59,7 +59,7 @@ for item, value in order.items():
 
 conn.commit()
 
-print("\n✅ Bill Saved Successfully!")
+print("\nBill Saved Successfully!")
 print("Bill ID:", bill_id)
 
 conn.close()
