@@ -42,7 +42,7 @@ class RestaurantBilling:
 
     def take_order(self):
         try:
-            n = int(input("\nEnter number of items: "))
+            n = int(input("Enter number of items: "))
         except ValueError:
             print("Invalid input! Using 1 item by default.")
             n = 1
